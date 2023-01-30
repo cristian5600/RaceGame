@@ -1,3 +1,5 @@
+![alt text](https://github.com/cristian5600/RaceGame/blob/main/RaceGamePicture.PNG)
+
 Generare geometrie pistă
 Geometria pistei de curse trebuie generată prin asamblare din cod. Nu se poate crea geometria într-un software extern și importa în aplicație.
 
